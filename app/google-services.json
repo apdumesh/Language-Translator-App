@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004184531088",
+    "project_id": "language-translator-app-ed2fd",
+    "storage_bucket": "language-translator-app-ed2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004184531088:android:d1542c0de07c72e7ffa815",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004184531088-nkp4cbdonrj5voaghvgaev02chm9j4pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz7FZ2VyH4mOpWdeoyy-ncUO_4riX5ZIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004184531088-nkp4cbdonrj5voaghvgaev02chm9j4pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
